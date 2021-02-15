@@ -29,21 +29,3 @@ If you have time, please feel free to add some unit and/or integration tests to 
 
 When you have completed the task, please submit your code either as a ZIP archive or provide a link to the checked in source in your personal Github or similar.
 
-
-    private static final String DB_DRIVER = "com.mysql.jdbc.Driver";
-    private static final String DB_URL = "jdbc:mysql://practical-test.c2qqcx7fu6oj.us-east-2.rds.amazonaws.com:3306/practicaltest?useSSL=false";
-    private static final String DB_USER = "test_user";
-    private static final String DB_PASS = "testDB@123";
-	
-	
-branches
-customers
-employees
-engines
-invoices
-models
-models_engines_intersect
-ordered_vehicles
-orders
-trim_equipment
-trims
